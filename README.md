@@ -1,18 +1,17 @@
-
 # Enzofy - The Most Listened Songs
 
-Enzofy é um aplicativo web simples que permite aos usuários explorar as músicas mais populares de um artista ou banda diretamente no navegador.
+Enzofy is a simple web application that allows users to explore the most popular songs of an artist or band directly in the browser.
 
-## Funcionalidades
+## Features
 
-- **Buscar Músicas Populares:** Insira o nome de um artista ou banda para ver as músicas mais ouvidas atualmente.
-- **Ouvir Trechos:** Para cada música listada, você pode ouvir uma prévia de 30 segundos diretamente no aplicativo.
-- **Gerenciar Pesquisas Recentes:** O aplicativo mantém um registro das últimas 10 pesquisas realizadas para facilitar a revisão.
-- **Embaralhar Músicas:** Embaralhe a ordem das músicas listadas para descobrir novos hits.
+- **Search Popular Songs:** Enter the name of an artist or band to see the currently most listened songs.
+- **Listen to Previews:** For each listed song, you can listen to a 30-second preview directly within the application.
+- **Manage Recent Searches:** The app keeps a record of the last 10 searches made to facilitate review.
+- **Shuffle Songs:** Shuffle the order of listed songs to discover new hits.
 
-## Uso Online
+## Online Usage
 
-Acesse o Enzofy diretamente no [website Enzofy](https://seu-site.com/enzofy) para começar a explorar as músicas mais populares de seus artistas favoritos.
+Access Enzofy directly on the [Enzofy website](https://your-site.com/enzofy) to start exploring the most popular songs from your favorite artists.
 
 Step 1:
 ![enzofy demo](https://github.com/enzomarx/Enzofy/assets/161323562/1b4c38ee-40df-4a4d-9c68-5980a461eb2b)
@@ -21,15 +20,15 @@ Step 2:
 Step 3:
 ![Step 3](https://github.com/enzomarx/Enzofy/assets/161323562/7183b52c-ce9d-4ea0-9a0f-279923a97c4c)
 
-## Tecnologias Utilizadas
+## Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript (ES6+)
 
-## Notas Adicionais
+## Additional Notes
 
-- **Segurança:** Este projeto não requer tokens de acesso ou configurações adicionais. É pronto para uso diretamente no navegador.
-- **Contribuições:** Sinta-se à vontade para contribuir com melhorias ou correções. Basta fazer um fork do repositório e enviar um pull request.
+- **Security:** This project does not require access tokens or additional configurations. It is ready for use directly in the browser.
+- **Contributions:** Feel free to contribute improvements or fixes. Simply fork the repository and submit a pull request.
 
-Este projeto foi desenvolvido para oferecer uma experiência simples e direta de descoberta de músicas populares. Aproveite para explorar e descobrir novas músicas sem complicações.
+This project was developed to offer a simple and straightforward experience for discovering popular songs. Enjoy exploring and finding new music hassle-free.
