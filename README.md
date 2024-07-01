@@ -11,7 +11,7 @@ Enzofy is a simple web application that allows users to explore the most popular
 
 ## Online Usage
 
-Access Enzofy directly on the [Enzofy website](https://your-site.com/enzofy) to start exploring the most popular songs from your favorite artists.
+Access Enzofy directly on the [Enzofy website]([https://your-site.com/enzofy](https://enzomarx.github.io/Enzofy/)) to start exploring the most popular songs from your favorite artists.
 
 Step 1:
 ![enzofy demo](https://github.com/enzomarx/Enzofy/assets/161323562/1b4c38ee-40df-4a4d-9c68-5980a461eb2b)
