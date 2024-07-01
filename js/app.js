@@ -5,8 +5,8 @@ var spotifyToken = '';
 
 // Função para buscar o token de acesso do Spotify
 function fetchSpotifyToken() {
-    var clientId = '731cb7c6639a4e779dd47f7368c8d5f9';
-    var clientSecret = 'd2d3772e36054521b7cef082bae3ff8d';
+    var clientId = 'x'; // youz id
+    var clientSecret = 'y'; // your client
 
     var tokenUrl = 'https://accounts.spotify.com/api/token';
     var basicAuth = btoa(clientId + ':' + clientSecret);
