@@ -32,7 +32,7 @@ function fetchSpotifyToken() {
 
 // Função para buscar as músicas populares de um artista
 function fetchTopSongs(artist) {
-    var apiKey = "9e06728c486bda235dbc686173e8b6c3";
+    var apiKey = "x"; // your api key
     var url = "https://ws.audioscrobbler.com/2.0/?method=artist.gettoptracks&artist=" + encodeURIComponent(artist) + "&api_key=" + apiKey + "&format=json";
 
     fetch(url)
