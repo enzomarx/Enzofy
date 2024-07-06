@@ -5,8 +5,8 @@ var spotifyToken = '';
 
 // Função para buscar o token de acesso do Spotify
 function fetchSpotifyToken() {
-    var clientId = '731cb7c6639a4e779dd47f7368c8d5f9';
-    var clientSecret = 'd2d3772e36054521b7cef082bae3ff8d';
+    var clientId = 'XXXXXXXXXXXXXXXX';
+    var clientSecret = 'YYYYYYYYYYYYYYYY';
 
     var tokenUrl = 'https://accounts.spotify.com/api/token';
     var basicAuth = btoa(clientId + ':' + clientSecret);
@@ -32,7 +32,7 @@ function fetchSpotifyToken() {
 
 // Função para buscar as músicas populares de um artista
 function fetchTopSongs(artist) {
-    var apiKey = "9e06728c486bda235dbc686173e8b6c3";
+    var apiKey = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
     var url = "https://ws.audioscrobbler.com/2.0/?method=artist.gettoptracks&artist=" + encodeURIComponent(artist) + "&api_key=" + apiKey + "&format=json";
 
     fetch(url)
