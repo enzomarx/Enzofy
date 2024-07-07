@@ -1,5 +1,5 @@
 
-# Enzofy - The Most Listened Songs
+# [Enzofy - The Most Listened Songs](https://enzofy.vercel.app/)
 
 Enzofy é um aplicativo web simples que permite aos usuários explorar as músicas mais populares de um artista ou banda diretamente no navegador.
 
@@ -12,7 +12,7 @@ Enzofy é um aplicativo web simples que permite aos usuários explorar as músic
 
 ## Uso Online
 
-Acesse o Enzofy diretamente no [website Enzofy](https://seu-site.com/enzofy) para começar a explorar as músicas mais populares de seus artistas favoritos.
+Acesse o Enzofy diretamente no [website Enzofy](https://enzofy.vercel.app/) para começar a explorar as músicas mais populares de seus artistas favoritos.
 
 Step 1:
 ![enzofy demo](https://github.com/enzomarx/Enzofy/assets/161323562/1b4c38ee-40df-4a4d-9c68-5980a461eb2b)
